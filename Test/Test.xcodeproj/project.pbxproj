@@ -18,6 +18,7 @@
 		56D43A7F175097D50005A7E5 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 56D43A7E175097D50005A7E5 /* Default-568h@2x.png */; };
 		56D43A82175097D50005A7E5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 56D43A81175097D50005A7E5 /* ViewController.m */; };
 		56D43A85175097D50005A7E5 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56D43A83175097D50005A7E5 /* ViewController.xib */; };
+		56D43A8D175098CD0005A7E5 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 56D43A8C175098CD0005A7E5 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		56D43A80175097D50005A7E5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		56D43A81175097D50005A7E5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		56D43A84175097D50005A7E5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		56D43A8B175098CD0005A7E5 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		56D43A8C175098CD0005A7E5 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				56D43A80175097D50005A7E5 /* ViewController.h */,
 				56D43A81175097D50005A7E5 /* ViewController.m */,
 				56D43A83175097D50005A7E5 /* ViewController.xib */,
+				56D43A8B175098CD0005A7E5 /* TestViewController.h */,
+				56D43A8C175098CD0005A7E5 /* TestViewController.m */,
 				56D43A6F175097D40005A7E5 /* Supporting Files */,
 			);
 			path = Test;
@@ -175,6 +180,7 @@
 				56D43A75175097D40005A7E5 /* main.m in Sources */,
 				56D43A79175097D40005A7E5 /* AppDelegate.m in Sources */,
 				56D43A82175097D50005A7E5 /* ViewController.m in Sources */,
+				56D43A8D175098CD0005A7E5 /* TestViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
